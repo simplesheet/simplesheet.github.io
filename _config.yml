@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Simple Sheet
+description: A collection of easy to use Google Sheet tools for pulling asset prices of stocks, crypto, and metals. And more!
 theme: just-the-docs
+url: "https://simplesheet.github.io"
+logo: "/assets/images/simple-sheet-logo.png"
+color_scheme: custom
 
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+plugins:
+  - jekyll-default-layout
