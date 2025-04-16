@@ -19,6 +19,8 @@ Keep it simple, smarty-pants 🤓
 >
 > It's just Simple, ya know? Keeping it real 😎
 
-### Check out the [Tools](/docs/tools/get-asset-prices/) 🛠️
+### Check out the [Tools]({{ site.baseurl }}/docs/tools/pull-asset-prices/) 🛠️
 
 ### Have an idea or a request? <a href="https://docs.google.com/forms/d/e/1FAIpQLSce9-dAMIRSN--Opz6fI4-sTJrvzK_IRTJAGiiL6SsmF4pSpQ/viewform?usp=header" target="_blank" rel="noopener">Let me know!</a> Do It 
+
+---
