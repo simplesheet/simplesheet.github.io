@@ -1,9 +1,26 @@
 title: Simple Sheet
-description: A collection of easy to use Google Sheet tools for pulling asset prices of stocks, crypto, and metals. And more!
+description: A collection of easy to use open-source Google Sheet tools.
 theme: just-the-docs
 url: "https://simplesheet.github.io"
-logo: "/assets/images/simple-sheet-logo.png"
+logo: "/assets/images/website-banner.png"
 color_scheme: custom
 
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+    
 plugins:
   - jekyll-default-layout
