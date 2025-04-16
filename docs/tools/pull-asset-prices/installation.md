@@ -135,3 +135,5 @@ The menu option will now appear everytime you open the spreadsheet.
 > Review the [Instructions]({{ site.baseurl }}/docs/tools/pull-asset-prices/instructions.html) page for usage instructions. 
 > 
 > Using it is even more simple than the install! 😅
+
+---

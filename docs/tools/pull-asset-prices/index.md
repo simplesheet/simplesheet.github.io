@@ -51,3 +51,5 @@ Update the old "manual-entry prices" (eww...) in your asset trackers with new au
 > Now head over to the [Installation Instructions]({{ site.baseurl }}/docs/tools/pull-asset-prices/installation.html) and get your asset prices automated! 
 > 
 > It's pretty simple, trust me 😉
+
+---

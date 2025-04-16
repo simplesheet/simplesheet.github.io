@@ -47,3 +47,5 @@ This tool retrieves publicly available data from the following sources:
 
 This tool was created for educational and personal portfolio tracking purposes.  
 If you are the owner of one of the services above and have concerns about this tool, please contact the maintainer to discuss proper usage or removal.
+
+---
