@@ -21,4 +21,4 @@ Keep it simple, smarty-pants 🤓
 
 ### Check out the [Tools](/docs/tools/get-asset-prices/) 🛠️
 
-### Have an idea or a request? <a href="https://google.com" target="_blank" rel="noopener">Let me know!</a> Do It 
+### Have an idea or a request? <a href="https://docs.google.com/forms/d/e/1FAIpQLSce9-dAMIRSN--Opz6fI4-sTJrvzK_IRTJAGiiL6SsmF4pSpQ/viewform?usp=header" target="_blank" rel="noopener">Let me know!</a> Do It 
