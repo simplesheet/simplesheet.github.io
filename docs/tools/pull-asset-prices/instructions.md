@@ -17,7 +17,7 @@ With the tool installed - It is TIME ⏱️ Let's automate those asset prices!
 >
 > What the heck is a **"Price Variable"**?
 >
-> A "Price Variable" is used to plug the price of an asset into another spreadsheet cell. It's actaully what Google calls a "Named Range". So instead of having to reference a price value with something like `='Asset Prices'!B20` we can just use `=TSLA_Price`.
+> A "Price Variable" is used to plug the price of an asset into another spreadsheet cell. It's actaully what spreadsheet software calls a "Named Range". So instead of having to reference a price value with something like `='Asset Prices'!B20` we can just use `=TSLA_Price`.
 >
 > The "Price Variable" column simply displays the coresponding "Named Range" for the asset price for easy reference.
 >
