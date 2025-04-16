@@ -12,6 +12,17 @@ You completed the [Installation]({{ site.baseurl }}/docs/tools/pull-asset-prices
 
 With the tool installed - It is TIME ⏱️ Let's automate those asset prices!
 
+{: .highlight-title }
+> Definition Check
+>
+> What the heck is a **"Price Variable"**?
+>
+> A "Price Variable" is used to plug the price of an asset into another spreadsheet cell. It's actaully what Google calls a "Named Range". So instead of having to reference a price value with something like `='Asset Prices'!B20` we can just use `=TSLA_Price`.
+>
+> The "Price Variable" column simply displays the coresponding "Named Range" for the asset price for easy reference.
+>
+> If this makes no sense, it will by the end of these instructions 😁
+
 ## Step 1 - Enter your asset tickers
 
 Navigate to the **Asset Prices** tab and add your desired Stock and Crypto tickers to the green columns.
@@ -79,7 +90,7 @@ Using TSLA as an example, enter `=TSLA_Price` into a cell.
 
 To use the price variable in another spreadsheet, use the IMPORTRANGE formula. 
 
-The first argument of the formula must be the spreadsheet URL where the **Pull Asset Prices** tool is installed. Copy everything in the URL before the `?`
+The first argument of the formula must be the spreadsheet URL where the **Pull Asset Prices** tool is installed. Copy everything in the URL before the `?` (the question mark).
 
 ![Instructions Step 5]({{ site.baseurl }}/assets/images/pull-asset-prices/instructions/step-5.gif)
 
@@ -88,7 +99,9 @@ Using TSLA as an example, enter `=IMPORTRANGE("https://docs.google.com/spreadshe
 {: .highlight-title }
 > Note
 >
-> If it's the first time importing a range into your spreadsheet, you'll need to click the notification in the cell and authorize it. Subsequent imports from the same spreadsheet will be good to go!
+> The first time you import a range into your spreadsheet, you'll need to click the notification in the cell and authorize it (see preview below). 
+>
+> Subsequent imports from the same spreadsheet will be good to go!
 
 ![Instructions Step 6]({{ site.baseurl }}/assets/images/pull-asset-prices/instructions/step-6.gif)
 
